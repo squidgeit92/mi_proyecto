@@ -7,9 +7,6 @@ Naranja
 
 Morado
 
-<<<<<<< HEAD
 Rosa
 
-=======
 Cyan
->>>>>>> 2b8ab1e55f679afc8f65a13797fde364207a0a2a
