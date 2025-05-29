@@ -4,3 +4,5 @@ Verde
 
 Amarillo
 Naranja
+
+Morado
