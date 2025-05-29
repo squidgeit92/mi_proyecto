@@ -6,3 +6,5 @@ Amarillo
 Naranja
 
 Morado
+
+Cyan
